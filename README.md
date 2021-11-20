@@ -1,0 +1,2 @@
+# DogeGiving
+contract
